@@ -1,3 +1,4 @@
+server.port: "8890"
 example.property: "I AM IN THE DEFAULT"
 spring.jpa.database: "POSTGRESQL"
 spring.datasource.platform:  "postgres"
