@@ -1,5 +1,5 @@
 server.port: "8890"
-example.property: "I AM IN THE git-DEFAULT"
+example.property: "I AM IN THE git-dev"
 spring.jpa.database: "POSTGRESQL"
 spring.datasource.platform:  "postgres"
 spring.jpa.show-sql: "true"
